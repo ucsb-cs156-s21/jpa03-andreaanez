@@ -11,7 +11,7 @@ On Heroku: https://jpa03-anez.herokuapp.com
   badge markup below as well so that the badge links to your
   correct codecov report.
 
-On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-cgaucho
+On Codecov: https://codecov.io/gh/ucsb-cs156-s21/jpa03-anez
 
 [![codecov](https://codecov.io/gh/ucsb-cs156-s21/jpa03-andreaanez/branch/main/graph/badge.svg?token=Do4NXNHc9D)](https://codecov.io/gh/ucsb-cs156-s21/jpa03-andreaanez)
 
